@@ -1,4 +1,4 @@
-# 👋 Salut, je suis [@ValentinGuitton16]
+# 👋 Salut, je suis @ValentinGuitton16
 
 🎓 **Étudiant en BUT Informatique (B1) à l'IUT du Limousin** 💻 Passionné par le développement logiciel et l'électronique.
 
@@ -38,6 +38,13 @@
 
 * 💼 **LinkedIn** : [https://www.linkedin.com/in/valentin-guitton-b3143a307/]
 * 📧 **Email** : `valentin.guitton@etu.unilim.fr`
+
+---
+
+### 📺 Retrouvez-moi sur YouTube
+Mon contenu est principalement axé sur Linux et l'informatique :
+
+[![Youtube](https://img.shields.io/badge/YouTube-TrucLinux-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TrucLinux)
 
 ---
 <p align="center">
