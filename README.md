@@ -45,9 +45,3 @@
 Mon contenu est principalement axé sur Linux et l'informatique :
 
 [![Youtube](https://img.shields.io/badge/YouTube-TrucLinux-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TrucLinux)
-
----
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" height="25">
-  <img src="https://forthebadge.com/images/badges/made-with-python.svg" height="25">
-</p>
